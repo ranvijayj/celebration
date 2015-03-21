@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+        <fieldset
+                name="ODude Ecard Parameters"
+                label="ODude Ecard Parameters"
+                description="ODude Ecard Parameters"
+        >
+   		 <field name="start_ecard" type="radio" default="0" label="Ecard or Image Gallery" description="Option to switch between Picture Gallery and Ecard">
+			<option value="0">Ecard (Greetings)</option>
+			<option value="1">Photo Gallery</option>
+		</field>
+      
+
+   </fieldset>
+</config>

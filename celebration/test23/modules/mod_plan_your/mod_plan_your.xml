@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension
+	type="module"
+	version="2.5"
+	client="site"
+	method="upgrade">
+	<name>Plan Your Trip</name>
+	<author>Dileep Gupta</author>
+	<creationDate>14 Aug 2012</creationDate>
+	<copyright>Copyright (C) 2005 - 2012 Open Source Matters. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<authorEmail>dileep.gupta@astintechnology.com</authorEmail>
+	<authorUrl>www.joomla.org</authorUrl>
+	<version>2.5.0</version>
+	<description>Plan Your Trip</description>
+	<files>
+		<filename module="mod_plan_your">mod_plan_your.php</filename>
+		<folder>tmpl</folder>
+		<filename>index.html</filename>
+		<filename>mod_plan_your.xml</filename>
+	</files>
+	</extension>

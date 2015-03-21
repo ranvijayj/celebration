@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension
+	type="module"
+	version="1.7"
+	client="site"
+	method="upgrade">
+	<name>mod_hot_deals</name>
+	<author>surya@astin</author>
+	<creationDate>4july  2012</creationDate>
+	<authorEmail>surya.bhan@astintechnology.com</authorEmail>
+	<authorUrl>www.astintechnology.com</authorUrl>
+	<version>1.0.0</version>
+	<description>This module will retrieve the hotdeals from Microsite Deals.</description>
+	<files>
+		<filename module="mod_hot_deals">mod_hot_deals.php</filename>
+		<folder>tmpl</folder>
+		<filename>index.html</filename>
+                <filename>mod_hot_deals.xml</filename>
+	</files>
+</extension>

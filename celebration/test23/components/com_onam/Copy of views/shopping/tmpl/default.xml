@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="Web Services" option="default">
+		<help
+			key="Menus_Menu_Item_Webservices"
+		/>
+		<message>
+			This will help you listing restaurants, pubs and cafes, etc using a weservice url.
+		</message>
+	</layout>
+
+	<!-- Add fields to the parameters object for the layout. -->
+	<fields name="params">
+		<!-- Basic options. -->
+		<fieldset name="request" label="Web Service Url">
+
+			<field name="url" type="text"
+                                default="http://microcommunity.getit.in/ypxmldata.aspx?"
+				description="Add webservices url here"
+				label="Web-services URL"
+				size="30"
+				required="true"
+			/>
+		</fieldset>
+
+	</fields>
+</metadata>
+

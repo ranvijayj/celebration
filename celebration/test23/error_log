@@ -1,0 +1,42 @@
+[26-Nov-2012 09:16:06] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/celebrat/public_html/christmas/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/christmas/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/christmas/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/christmas/hot.php on line 29
+[26-Nov-2012 09:17:55] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/celebrat/public_html/christmas/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/christmas/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/christmas/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/christmas/hot.php on line 29
+[26-Nov-2012 09:18:10] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/celebrat/public_html/christmas/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/christmas/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/christmas/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/christmas/hot.php on line 29
+[26-Nov-2012 09:18:58] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/celebrat/public_html/christmas/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/christmas/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/christmas/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/christmas/hot.php on line 29
+[26-Nov-2012 09:20:00] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/celebrat/public_html/christmas/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/christmas/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/christmas/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/christmas/hot.php on line 29
+[26-Nov-2012 09:20:00] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/celebrat/public_html/christmas/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/christmas/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/christmas/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/christmas/hot.php on line 29

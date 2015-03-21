@@ -1,0 +1,4 @@
+AuthName "administrator"
+AuthUserFile "/home/celebrat/.htpasswds/public_html/administrator/passwd"
+AuthType Basic
+require valid-user

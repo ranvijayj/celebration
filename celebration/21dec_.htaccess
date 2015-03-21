@@ -1,0 +1,2 @@
+AuthName "christmas"
+AuthUserFile "/home/celebrat/.htpasswds/public_html/passwd"

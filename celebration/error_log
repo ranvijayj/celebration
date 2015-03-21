@@ -1,0 +1,682 @@
+[26-Nov-2012 09:16:06] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/celebrat/public_html/christmas/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/christmas/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/christmas/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/christmas/hot.php on line 29
+[26-Nov-2012 09:17:55] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/celebrat/public_html/christmas/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/christmas/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/christmas/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/christmas/hot.php on line 29
+[26-Nov-2012 09:18:10] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/celebrat/public_html/christmas/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/christmas/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/christmas/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/christmas/hot.php on line 29
+[26-Nov-2012 09:18:58] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/celebrat/public_html/christmas/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/christmas/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/christmas/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/christmas/hot.php on line 29
+[26-Nov-2012 09:20:00] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/celebrat/public_html/christmas/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/christmas/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/christmas/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/christmas/hot.php on line 29
+[26-Nov-2012 09:20:00] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/celebrat/public_html/christmas/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/christmas/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/christmas/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/christmas/hot.php on line 29
+[27-Nov-2012 11:36:36] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/celebrat/public_html/christmas/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/christmas/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/christmas/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/christmas/hot.php on line 29
+[29-Nov-2012 15:03:39] PHP Warning:  require_once(/home/celebrat/public_html/christmas/includes/defines.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/celebrat/public_html/christmas/index.php on line 18
+[29-Nov-2012 15:03:39] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/celebrat/public_html/christmas/includes/defines.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/celebrat/public_html/christmas/index.php on line 18
+[29-Nov-2012 15:03:41] PHP Warning:  require_once(/home/celebrat/public_html/christmas/includes/defines.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/celebrat/public_html/christmas/index.php on line 18
+[29-Nov-2012 15:03:41] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/celebrat/public_html/christmas/includes/defines.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/celebrat/public_html/christmas/index.php on line 18
+[04-Dec-2012 13:01:51] PHP Parse error:  syntax error, unexpected T_ENDFOREACH in /home/celebrat/public_html/modules/mod_christmas_special/tmpl/default.php on line 58
+[04-Dec-2012 13:02:57] PHP Parse error:  syntax error, unexpected T_ENDFOREACH in /home/celebrat/public_html/modules/mod_christmas_special/tmpl/default.php on line 58
+[04-Dec-2012 13:07:02] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/celebrat/public_html/modules/mod_christmas_special/tmpl/default.php on line 61
+[04-Dec-2012 13:24:14] PHP Warning:  Missing argument 2 for travellist(), called in /home/celebrat/public_html/modules/mod_plan_your/tmpl/default.php on line 554 and defined in /home/celebrat/public_html/modules/mod_plan_your/tmpl/default.php on line 264
+[04-Dec-2012 13:24:26] PHP Warning:  Missing argument 2 for travellist(), called in /home/celebrat/public_html/modules/mod_car_rental/tmpl/default.php on line 441 and defined in /home/celebrat/public_html/modules/mod_car_rental/tmpl/default.php on line 172
+[04-Dec-2012 13:24:35] PHP Warning:  Missing argument 2 for travellist(), called in /home/celebrat/public_html/modules/mod_book_your/tmpl/default.php on line 445 and defined in /home/celebrat/public_html/modules/mod_book_your/tmpl/default.php on line 172
+[04-Dec-2012 13:25:49] PHP Warning:  Missing argument 2 for travellist(), called in /home/celebrat/public_html/modules/mod_car_rental/tmpl/default.php on line 441 and defined in /home/celebrat/public_html/modules/mod_car_rental/tmpl/default.php on line 172
+[04-Dec-2012 13:57:00] PHP Warning:  Missing argument 2 for travellist(), called in /home/celebrat/public_html/modules/mod_plan_your/tmpl/default.php on line 554 and defined in /home/celebrat/public_html/modules/mod_plan_your/tmpl/default.php on line 264
+[04-Dec-2012 17:12:57] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[04-Dec-2012 17:12:57] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 04:30:59] PHP Warning:  Missing argument 2 for travellist(), called in /home/celebrat/public_html/modules/mod_plan_your/tmpl/default.php on line 554 and defined in /home/celebrat/public_html/modules/mod_plan_your/tmpl/default.php on line 264
+[05-Dec-2012 04:31:23] PHP Warning:  Missing argument 2 for travellist(), called in /home/celebrat/public_html/modules/mod_plan_your/tmpl/default.php on line 554 and defined in /home/celebrat/public_html/modules/mod_plan_your/tmpl/default.php on line 264
+[05-Dec-2012 04:34:52] PHP Warning:  Missing argument 2 for travellist(), called in /home/celebrat/public_html/modules/mod_book_your/tmpl/default.php on line 445 and defined in /home/celebrat/public_html/modules/mod_book_your/tmpl/default.php on line 172
+[05-Dec-2012 04:35:02] PHP Warning:  Missing argument 2 for travellist(), called in /home/celebrat/public_html/modules/mod_car_rental/tmpl/default.php on line 441 and defined in /home/celebrat/public_html/modules/mod_car_rental/tmpl/default.php on line 172
+[05-Dec-2012 04:35:37] PHP Warning:  Missing argument 2 for travellist(), called in /home/celebrat/public_html/modules/mod_book_your/tmpl/default.php on line 445 and defined in /home/celebrat/public_html/modules/mod_book_your/tmpl/default.php on line 172
+[05-Dec-2012 04:35:41] PHP Warning:  Missing argument 2 for travellist(), called in /home/celebrat/public_html/modules/mod_car_rental/tmpl/default.php on line 441 and defined in /home/celebrat/public_html/modules/mod_car_rental/tmpl/default.php on line 172
+[05-Dec-2012 04:35:46] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/modules/mod_car_rental/tmpl/default.php on line 260
+[05-Dec-2012 04:36:00] PHP Warning:  Missing argument 2 for travellist(), called in /home/celebrat/public_html/modules/mod_car_rental/tmpl/default.php on line 441 and defined in /home/celebrat/public_html/modules/mod_car_rental/tmpl/default.php on line 172
+[05-Dec-2012 04:36:18] PHP Warning:  Missing argument 2 for travellist(), called in /home/celebrat/public_html/modules/mod_car_rental/tmpl/default.php on line 441 and defined in /home/celebrat/public_html/modules/mod_car_rental/tmpl/default.php on line 172
+[05-Dec-2012 04:36:22] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/modules/mod_car_rental/tmpl/default.php on line 260
+[05-Dec-2012 04:54:07] PHP Warning:  Missing argument 2 for travellist(), called in /home/celebrat/public_html/modules/mod_car_rental/tmpl/default.php on line 441 and defined in /home/celebrat/public_html/modules/mod_car_rental/tmpl/default.php on line 172
+[05-Dec-2012 04:54:12] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/modules/mod_car_rental/tmpl/default.php on line 260
+[05-Dec-2012 04:55:37] PHP Warning:  Missing argument 2 for travellist(), called in /home/celebrat/public_html/modules/mod_book_your/tmpl/default.php on line 445 and defined in /home/celebrat/public_html/modules/mod_book_your/tmpl/default.php on line 172
+[05-Dec-2012 04:56:22] PHP Warning:  Missing argument 2 for travellist(), called in /home/celebrat/public_html/modules/mod_plan_your/tmpl/default.php on line 554 and defined in /home/celebrat/public_html/modules/mod_plan_your/tmpl/default.php on line 264
+[05-Dec-2012 04:59:37] PHP Warning:  Missing argument 2 for travellist(), called in /home/celebrat/public_html/modules/mod_plan_your/tmpl/default.php on line 554 and defined in /home/celebrat/public_html/modules/mod_plan_your/tmpl/default.php on line 264
+[05-Dec-2012 05:05:49] PHP Warning:  Missing argument 2 for travellist(), called in /home/celebrat/public_html/modules/mod_plan_your/tmpl/default.php on line 554 and defined in /home/celebrat/public_html/modules/mod_plan_your/tmpl/default.php on line 264
+[05-Dec-2012 05:28:50] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/detail/tmpl/default.php on line 256
+[05-Dec-2012 05:29:27] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/detail/tmpl/default.php on line 256
+[05-Dec-2012 05:30:43] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/tmpl/default.php on line 288
+[05-Dec-2012 05:33:41] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/tmpl/default.php on line 288
+[05-Dec-2012 05:40:39] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 05:40:44] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 05:41:04] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 05:41:10] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 05:41:29] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 05:41:34] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 05:41:54] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 05:41:59] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 05:42:20] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 05:42:27] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 05:42:44] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 05:42:49] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 05:43:05] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/view.html.php on line 116
+[05-Dec-2012 05:43:05] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/view.html.php on line 123
+[05-Dec-2012 05:43:05] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/view.html.php on line 130
+[05-Dec-2012 05:43:09] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 05:43:14] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 05:43:19] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/view.html.php on line 116
+[05-Dec-2012 05:43:19] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/view.html.php on line 123
+[05-Dec-2012 05:43:19] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/view.html.php on line 130
+[05-Dec-2012 05:43:29] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/view.html.php on line 116
+[05-Dec-2012 05:43:29] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/view.html.php on line 123
+[05-Dec-2012 05:43:29] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/view.html.php on line 130
+[05-Dec-2012 05:43:34] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 05:43:40] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 05:44:55] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/view.html.php on line 116
+[05-Dec-2012 05:44:55] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/view.html.php on line 123
+[05-Dec-2012 05:44:55] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/view.html.php on line 130
+[05-Dec-2012 05:44:57] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/tmpl/default.php on line 288
+[05-Dec-2012 05:45:52] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/view.html.php on line 116
+[05-Dec-2012 05:45:52] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/view.html.php on line 123
+[05-Dec-2012 05:45:52] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/view.html.php on line 130
+[05-Dec-2012 05:46:17] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardpre/view.html.php on line 40
+[05-Dec-2012 05:52:13] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/view.html.php on line 238
+[05-Dec-2012 05:52:13] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/tmpl/default.php on line 288
+[05-Dec-2012 05:52:13] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/tmpl/default.php on line 321
+[05-Dec-2012 05:52:20] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/view.html.php on line 238
+[05-Dec-2012 05:52:20] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/tmpl/default.php on line 288
+[05-Dec-2012 05:52:20] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/tmpl/default.php on line 321
+[05-Dec-2012 05:52:53] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/view.html.php on line 238
+[05-Dec-2012 05:52:53] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/tmpl/default.php on line 321
+[05-Dec-2012 05:53:54] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/view.html.php on line 238
+[05-Dec-2012 05:53:54] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/tmpl/default.php on line 321
+[05-Dec-2012 05:53:57] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/view.html.php on line 238
+[05-Dec-2012 05:53:57] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/tmpl/default.php on line 321
+[05-Dec-2012 05:54:17] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/view.html.php on line 238
+[05-Dec-2012 05:54:17] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/tmpl/default.php on line 321
+[05-Dec-2012 05:54:24] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/view.html.php on line 238
+[05-Dec-2012 05:54:24] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/tmpl/default.php on line 321
+[05-Dec-2012 05:58:09] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 05:58:13] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 05:58:33] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 05:58:38] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 05:59:08] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/tmpl/default.php on line 288
+[05-Dec-2012 05:59:36] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 05:59:56] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:00:01] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:00:26] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:00:46] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:00:52] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:01:11] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:01:16] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:01:36] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:01:41] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:02:01] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:02:06] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:02:26] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:02:31] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:02:51] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:02:56] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:03:16] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:03:23] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:03:42] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:03:46] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:04:07] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:04:12] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:04:31] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:04:36] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:04:56] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:05:01] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:05:21] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:05:26] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:05:46] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:05:53] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:06:11] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:06:16] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:06:36] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:06:42] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:07:01] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:07:06] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:07:26] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:07:32] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:07:51] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:07:56] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:08:18] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:08:21] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:08:41] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:08:46] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:09:06] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:09:08] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/detail/tmpl/default.php on line 256
+[05-Dec-2012 06:09:12] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:09:23] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/detail/tmpl/default.php on line 256
+[05-Dec-2012 06:09:31] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:09:36] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:09:56] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:10:01] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:10:21] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:10:26] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:10:46] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:10:51] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:11:11] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:11:17] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:11:36] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:11:41] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:12:01] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:12:06] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:12:26] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:12:31] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:12:51] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:12:57] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:13:16] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:13:21] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:13:41] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:13:46] PHP Fatal error:  Only variables can be passed by reference in /home/celebrat/public_html/components/com_odudecard/views/odudecardshow/view.html.php on line 56
+[05-Dec-2012 06:19:26] PHP Warning:  Missing argument 2 for travellist(), called in /home/celebrat/public_html/modules/mod_plan_your/tmpl/default.php on line 554 and defined in /home/celebrat/public_html/modules/mod_plan_your/tmpl/default.php on line 264
+[05-Dec-2012 06:20:57] PHP Warning:  Missing argument 2 for travellist(), called in /home/celebrat/public_html/modules/mod_book_your/tmpl/default.php on line 445 and defined in /home/celebrat/public_html/modules/mod_book_your/tmpl/default.php on line 172
+[05-Dec-2012 06:21:18] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/modules/mod_christmas_events/tmpl/default.php on line 9
+[05-Dec-2012 06:22:02] PHP Warning:  Missing argument 2 for travellist(), called in /home/celebrat/public_html/modules/mod_plan_your/tmpl/default.php on line 554 and defined in /home/celebrat/public_html/modules/mod_plan_your/tmpl/default.php on line 264
+[05-Dec-2012 06:22:14] PHP Warning:  Missing argument 2 for travellist(), called in /home/celebrat/public_html/modules/mod_plan_your/tmpl/default.php on line 554 and defined in /home/celebrat/public_html/modules/mod_plan_your/tmpl/default.php on line 264
+[05-Dec-2012 06:25:51] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/view.html.php on line 116
+[05-Dec-2012 06:25:51] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/view.html.php on line 123
+[05-Dec-2012 06:25:51] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/view.html.php on line 130
+[05-Dec-2012 06:26:34] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/view.html.php on line 116
+[05-Dec-2012 06:26:34] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/view.html.php on line 123
+[05-Dec-2012 06:26:34] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/view.html.php on line 130
+[05-Dec-2012 06:27:13] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/view.html.php on line 116
+[05-Dec-2012 06:27:13] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/view.html.php on line 123
+[05-Dec-2012 06:27:13] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/view.html.php on line 130
+[05-Dec-2012 13:49:39] PHP Fatal error:  Using $this when not in object context in /home/celebrat/public_html/modules/mod_christmas_special/tmpl/default.php on line 7
+[05-Dec-2012 14:16:46] PHP Warning:  Missing argument 2 for travellist(), called in /home/celebrat/public_html/modules/mod_book_your/tmpl/default.php on line 445 and defined in /home/celebrat/public_html/modules/mod_book_your/tmpl/default.php on line 172
+[05-Dec-2012 14:16:48] PHP Warning:  Missing argument 2 for travellist(), called in /home/celebrat/public_html/modules/mod_car_rental/tmpl/default.php on line 441 and defined in /home/celebrat/public_html/modules/mod_car_rental/tmpl/default.php on line 172
+[05-Dec-2012 14:17:15] PHP Warning:  Missing argument 2 for travellist(), called in /home/celebrat/public_html/modules/mod_plan_your/tmpl/default.php on line 554 and defined in /home/celebrat/public_html/modules/mod_plan_your/tmpl/default.php on line 264
+[05-Dec-2012 14:33:42] PHP Warning:  Missing argument 2 for travellist(), called in /home/celebrat/public_html/modules/mod_plan_your/tmpl/default.php on line 554 and defined in /home/celebrat/public_html/modules/mod_plan_your/tmpl/default.php on line 264
+[05-Dec-2012 15:43:20] PHP Warning:  Missing argument 2 for travellist(), called in /home/celebrat/public_html/modules/mod_car_rental/tmpl/default.php on line 441 and defined in /home/celebrat/public_html/modules/mod_car_rental/tmpl/default.php on line 172
+[05-Dec-2012 15:58:57] PHP Warning:  Missing argument 2 for travellist(), called in /home/celebrat/public_html/modules/mod_car_rental/tmpl/default.php on line 441 and defined in /home/celebrat/public_html/modules/mod_car_rental/tmpl/default.php on line 172
+[05-Dec-2012 15:59:08] PHP Warning:  Missing argument 2 for travellist(), called in /home/celebrat/public_html/modules/mod_plan_your/tmpl/default.php on line 554 and defined in /home/celebrat/public_html/modules/mod_plan_your/tmpl/default.php on line 264
+[06-Dec-2012 02:52:18] PHP Warning:  Missing argument 2 for travellist(), called in /home/celebrat/public_html/modules/mod_plan_your/tmpl/default.php on line 554 and defined in /home/celebrat/public_html/modules/mod_plan_your/tmpl/default.php on line 264
+[06-Dec-2012 04:29:09] PHP Warning:  Missing argument 2 for travellist(), called in /home/celebrat/public_html/modules/mod_book_your/tmpl/default.php on line 445 and defined in /home/celebrat/public_html/modules/mod_book_your/tmpl/default.php on line 172
+[06-Dec-2012 05:14:28] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/view.html.php on line 231
+[06-Dec-2012 05:14:28] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/view.html.php on line 245
+[06-Dec-2012 05:14:28] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/view.html.php on line 259
+[06-Dec-2012 05:14:51] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/detail/tmpl/default.php on line 256
+[06-Dec-2012 05:14:57] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/detail/tmpl/default.php on line 256
+[06-Dec-2012 05:19:43] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/detail/tmpl/default.php on line 256
+[06-Dec-2012 05:19:45] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/view.html.php on line 231
+[06-Dec-2012 05:19:45] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/view.html.php on line 245
+[06-Dec-2012 05:19:45] PHP Warning:  Invalid argument supplied for foreach() in /home/celebrat/public_html/components/com_onam/views/shopping/view.html.php on line 259
+[12-Dec-2012 17:09:53] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[12-Dec-2012 17:10:54] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[12-Dec-2012 17:11:54] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[12-Dec-2012 17:12:54] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[12-Dec-2012 17:13:56] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[21-Dec-2012 09:01:23] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[21-Dec-2012 09:01:23] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[21-Dec-2012 09:31:21] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[21-Dec-2012 09:31:21] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[21-Dec-2012 09:31:21] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[21-Dec-2012 11:00:12] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[24-Dec-2012 08:01:21] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[24-Dec-2012 08:01:21] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[26-Dec-2012 08:31:21] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[27-Dec-2012 07:31:22] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[27-Dec-2012 10:01:22] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[27-Dec-2012 15:30:13] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[28-Dec-2012 07:01:21] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[31-Dec-2012 16:18:21] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[31-Dec-2012 16:20:14] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[07-Jan-2013 05:31:20] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[08-Jan-2013 06:30:02] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[08-Jan-2013 06:31:15] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[08-Jan-2013 06:32:17] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[08-Jan-2013 06:33:29] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[11-Jan-2013 06:30:12] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[11-Jan-2013 09:01:22] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[21-Jan-2013 05:31:22] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[21-Jan-2013 10:31:20] PHP Warning:  SoapClient::SoapClient(http://119.226.135.78/hotdealswebservice/hotdealsservice.asmx?WSDL) [<a href='soapclient.soapclient'>soapclient.soapclient</a>]: failed to open stream: Operation now in progress in /home/celebrat/public_html/hot.php on line 23
+[21-Jan-2013 10:31:20] PHP Warning:  SoapClient::SoapClient() [<a href='soapclient.soapclient'>soapclient.soapclient</a>]: I/O warning : failed to load external entity &quot;http://119.226.135.78/hotdealswebservice/hotdealsservice.asmx?WSDL&quot; in /home/celebrat/public_html/hot.php on line 23
+[11-Feb-2013 10:50:14] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] Server was unable to process request. ---> The type initializer for 'BusObjHotDeal.Util.HotDealUtil' threw an exception. ---> The requested database FreeAdsTelco is not defined in configuration. in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#2 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[11-Feb-2013 10:50:15] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] Server was unable to process request. ---> The type initializer for 'BusObjHotDeal.Util.HotDealUtil' threw an exception. ---> The requested database FreeAdsTelco is not defined in configuration. in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#2 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[11-Feb-2013 10:50:16] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] Server was unable to process request. ---> The type initializer for 'BusObjHotDeal.Util.HotDealUtil' threw an exception. ---> The requested database FreeAdsTelco is not defined in configuration. in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#2 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[11-Feb-2013 10:50:17] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] Server was unable to process request. ---> The type initializer for 'BusObjHotDeal.Util.HotDealUtil' threw an exception. ---> The requested database FreeAdsTelco is not defined in configuration. in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#2 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[11-Feb-2013 10:50:18] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] Server was unable to process request. ---> The type initializer for 'BusObjHotDeal.Util.HotDealUtil' threw an exception. ---> The requested database FreeAdsTelco is not defined in configuration. in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#2 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[11-Feb-2013 10:50:19] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] Server was unable to process request. ---> The type initializer for 'BusObjHotDeal.Util.HotDealUtil' threw an exception. ---> The requested database FreeAdsTelco is not defined in configuration. in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#2 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[11-Feb-2013 10:50:19] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] Server was unable to process request. ---> The type initializer for 'BusObjHotDeal.Util.HotDealUtil' threw an exception. ---> The requested database FreeAdsTelco is not defined in configuration. in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#2 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[11-Feb-2013 10:50:20] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] Server was unable to process request. ---> The type initializer for 'BusObjHotDeal.Util.HotDealUtil' threw an exception. ---> The requested database FreeAdsTelco is not defined in configuration. in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#2 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[11-Feb-2013 10:50:21] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] Server was unable to process request. ---> The type initializer for 'BusObjHotDeal.Util.HotDealUtil' threw an exception. ---> The requested database FreeAdsTelco is not defined in configuration. in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#2 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[11-Feb-2013 10:50:22] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] Server was unable to process request. ---> The type initializer for 'BusObjHotDeal.Util.HotDealUtil' threw an exception. ---> The requested database FreeAdsTelco is not defined in configuration. in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#2 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[11-Feb-2013 10:50:23] PHP Fatal error:  Uncaught SoapFault exception: [soap:Server] Server was unable to process request. ---> The type initializer for 'BusObjHotDeal.Util.HotDealUtil' threw an exception. ---> The requested database FreeAdsTelco is not defined in configuration. in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#2 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[25-Mar-2013 09:37:56] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[25-Mar-2013 09:40:13] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[02-Apr-2013 12:07:15] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Bad Request in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[03-Apr-2013 11:56:14] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[03-Apr-2013 11:57:44] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[03-Apr-2013 12:20:32] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[04-Apr-2013 05:20:14] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Service Unavailable in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[04-Apr-2013 05:20:24] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Service Unavailable in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[04-Apr-2013 05:20:34] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Service Unavailable in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[04-Apr-2013 05:20:44] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Service Unavailable in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[04-Apr-2013 05:20:54] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[04-Apr-2013 05:20:57] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[04-Apr-2013 05:21:04] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[04-Apr-2013 05:21:14] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[04-Apr-2013 05:21:24] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[04-Apr-2013 05:21:34] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[04-Apr-2013 06:05:38] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Service Unavailable in /home/celebrat/public_html/hot.php:29
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(29): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(29): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 29
+[01-Jun-2013 07:27:56] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/celebrat/public_html/hot.php:30
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(30): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(30): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 30
+[03-Jun-2013 10:32:32] PHP Fatal error:  Uncaught SoapFault exception: [Client] looks like we got no XML document in /home/celebrat/public_html/hot.php:30
+Stack trace:
+#0 /home/celebrat/public_html/hot.php(30): SoapClient->__call('GetHotDealsData', Array)
+#1 /home/celebrat/public_html/hot.php(30): SoapClient->GetHotDealsData(Array)
+#2 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 30
+[03-Jun-2013 10:33:29] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/celebrat/public_html/hot.php:30
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(30): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(30): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 30
+[03-Jun-2013 10:34:20] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Error Fetching http headers in /home/celebrat/public_html/hot.php:30
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(30): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(30): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 30
+[03-Jun-2013 10:35:27] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/celebrat/public_html/hot.php:30
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(30): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(30): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 30
+[03-Jun-2013 10:36:50] PHP Fatal error:  Uncaught SoapFault exception: [Client] looks like we got no XML document in /home/celebrat/public_html/hot.php:30
+Stack trace:
+#0 /home/celebrat/public_html/hot.php(30): SoapClient->__call('GetHotDealsData', Array)
+#1 /home/celebrat/public_html/hot.php(30): SoapClient->GetHotDealsData(Array)
+#2 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 30
+[03-Jun-2013 10:38:40] PHP Fatal error:  Uncaught SoapFault exception: [Client] looks like we got no XML document in /home/celebrat/public_html/hot.php:30
+Stack trace:
+#0 /home/celebrat/public_html/hot.php(30): SoapClient->__call('GetHotDealsData', Array)
+#1 /home/celebrat/public_html/hot.php(30): SoapClient->GetHotDealsData(Array)
+#2 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 30
+[03-Jun-2013 10:39:19] PHP Fatal error:  Uncaught SoapFault exception: [Client] looks like we got no XML document in /home/celebrat/public_html/hot.php:30
+Stack trace:
+#0 /home/celebrat/public_html/hot.php(30): SoapClient->__call('GetHotDealsData', Array)
+#1 /home/celebrat/public_html/hot.php(30): SoapClient->GetHotDealsData(Array)
+#2 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 30
+[03-Jun-2013 10:39:53] PHP Fatal error:  Uncaught SoapFault exception: [HTTP] Could not connect to host in /home/celebrat/public_html/hot.php:30
+Stack trace:
+#0 [internal function]: SoapClient->__doRequest('<?xml version="...', 'http://119.226....', 'Hotdeals/GetHot...', 1, 0)
+#1 /home/celebrat/public_html/hot.php(30): SoapClient->__call('GetHotDealsData', Array)
+#2 /home/celebrat/public_html/hot.php(30): SoapClient->GetHotDealsData(Array)
+#3 {main}
+  thrown in /home/celebrat/public_html/hot.php on line 30

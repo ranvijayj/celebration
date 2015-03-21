@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="component" version="1.6.0" method="upgrade">
+
+        <name>odudecard</name>
+        <!-- The following elements are optional and free of formatting conttraints -->
+        <creationDate>04 September, 2011</creationDate>
+        <author>ODude Network</author>
+        <authorEmail>navneet@lovelynepal.com</authorEmail>
+        <authorUrl>http://www.odude.com</authorUrl>
+        <copyright>Copyright Info</copyright>
+        <license>License Info</license>
+        <!--  The version string is recorded in the components table -->
+        <version>1.8</version>
+        <!-- The description is optional and defaults to the name -->
+        <description>ODude Ecard (Greetings Card)</description>
+        <!-- Runs on install/uninstall/update; New in 1.6 -->
+        <scriptfile>script.php</scriptfile>
+        <install> <!-- Runs on install -->
+                <sql>
+                        <file driver="mysql" charset="utf8">sql/install.mysql.utf8.sql</file>
+                </sql>
+        </install>
+        <uninstall> <!-- Runs on uninstall -->
+                <sql>
+                        <file driver="mysql" charset="utf8">sql/uninstall.mysql.utf8.sql</file>
+                </sql>
+        </uninstall>
+        <update> <!-- Runs on update; New in 1.6 -->
+                <schemas>
+                        <schemapath type="mysql">sql/updates/mysql</schemapath>
+                </schemas>
+        </update>
+
+        <!-- Site Main File Copy Section -->
+        <!-- Note the folder attribute: This attribute describes the folder
+                to copy FROM in the package to install therefore files copied
+                in this section are copied from /site/ in the package -->
+        <files folder="site">
+               <filename>index.html</filename>
+                <filename>odudecard.php</filename>
+                <filename>controller.php</filename>
+                <filename>router.php</filename>
+                <folder>views</folder>
+                <folder>models</folder>
+                <folder>language</folder>
+                <folder>include</folder>
+                <folder>images</folder>
+                <folder>controllers</folder>
+           </files>
+   <languages>
+    <language tag="en-GB">site/language/en-GB.com_odudecard.ini</language>
+    <language tag="da-DK">site/language/da-DK.com_odudecard.ini</language>
+    <language tag="nl-NL">site/language/nl-NL.com_odudecard.ini</language>
+    <language tag="fr-FR">site/language/fr-FR.com_odudecard.ini</language>
+    <language tag="es-ES">site/language/es-ES.com_odudecard.ini</language>
+    <language tag="it-IT">site/language/it-IT.com_odudecard.ini</language>
+    <language tag="de-DE">site/language/de-DE.com_odudecard.ini</language>
+
+  </languages>
+        <administration>
+                <!-- Administration Menu Section -->
+               	<menu><![CDATA[ODude Ecard FREE]]></menu>
+            <submenu>
+			<menu link="option=com_odudecard&amp;controller=odudecardsetting&amp;task=edit&amp;cid[]=1"><![CDATA[Setting]]></menu>
+			<menu link="option=com_odudecard"><![CDATA[Categories]]></menu>
+			<menu link="option=com_odudecard&amp;controller=odudecardcard"><![CDATA[List & Create Ecards]]></menu>
+				<menu link="option=com_odudecard&amp;controller=odudecardcard&amp;task=add"><![CDATA[New JPG/FLASH Ecard ]]></menu>
+			<menu link="option=com_odudecard&amp;view=odudecardthumb"><![CDATA[New JPG Ecard (Auto Thumbnail) ]]></menu>
+			<menu link="option=com_odudecard&amp;controller=import"><![CDATA[Import from Folder ]]></menu>
+    	<menu link="option=com_odudecard&amp;controller=odudecardstat"><![CDATA[Statistics]]></menu>
+
+		</submenu>
+                <!-- Administration Main File Copy Section -->
+                <!-- Note the folder attribute: This attribute describes the folder
+                        to copy FROM in the package to install therefore files copied
+                        in this section are copied from /admin/ in the package -->
+                <files folder="admin">
+                        <!-- Admin Main File Copy Section -->
+                        <filename>index.html</filename>
+                        <filename>config.xml</filename>
+                        <filename>odudecard.php</filename>
+                        <filename>controller.php</filename>
+
+                         <!-- SQL files section -->
+                        <folder>sql</folder>
+                        <!-- tables files section -->
+                        <folder>tables</folder>
+                        <!-- models files section -->
+                        <folder>models</folder>
+                        <!-- views files section -->
+                        <folder>views</folder>
+                        <!-- controllers files section -->
+                        <folder>controllers</folder>
+                        <folder>helpers</folder>
+
+
+                </files>
+
+        </administration>
+
+</extension>
+

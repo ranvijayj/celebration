@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 2.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.6/template-install.dtd">
+<extension version="2.5" type="template" client="site">
+	<name>Chritsmas</name>
+	<creationDate>19 NOV 2012</creationDate>
+	<author>Satyendra Yadav</author>
+	<authorEmail>satyendra@astintechnology.com</authorEmail>
+	<authorUrl>http://www.astintechnology.com</authorUrl>
+	<copyright>Copyright (C) 2005 - 2012 Open Source Matters, Inc. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<version>2.5.0</version>
+	<description>Chritsmas</description>
+
+	<files>
+		<folder>css</folder>
+		<folder>html</folder>
+		<folder>images</folder>
+		<filename>templateDetails.xml</filename>
+		<folder>js</folder>
+		<filename>template_preview.png</filename>
+		<filename>template_thumbnail.png</filename>
+		<filename>index.html</filename>
+		<filename>index.php</filename>
+		<filename>favicon.ico</filename>
+		<filename>component.php</filename>
+		<filename>error.php</filename>
+	</files>
+
+	<positions>
+	<position>top_menu</position>
+	<position>main_menu</position>
+	<position>chritsmas_shopping</position>
+	<position>chritsmas_events</position>
+	<position>chritsmas_special</position>
+        <position>Middle_banner1</position>
+        <position>Middle_banner2</position>
+	<position>chritsmas_gift</position>
+	<position>chritsmas_tour</position>
+	<position>chritsmas_vedio</position>
+	<position>right_banner1</position>
+	<position>right_banner3</position>
+	<position>right_fb</position>
+	<position>footer1</position>
+	<position>footer2</position>
+	<position>footer3</position>
+	<position>footer_social_menu</position>
+	<position>footer_getit_network</position>
+	<position>search</position>	
+	<position>top_receipe</position>
+	<position>poll_month</position>
+	<position>moments</position>
+	<position>hidden</position>
+	<position>hotdeal</position>
+	<position>top_slider</position>
+	
+    </positions>
+	
+
+	
+</extension>

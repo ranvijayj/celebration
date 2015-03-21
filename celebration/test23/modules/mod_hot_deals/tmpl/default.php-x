@@ -1,0 +1,31 @@
+<?php
+$url="http://61.12.27.165/hotdeal/MicroSitesDeals.asmx/GetDealData";
+$xml = @simplexml_load_file($url);
+$dealsArr = array();
+
+foreach($xml->children() as $i => $child){
+
+    $dealsArr[]='
+        <div class="uni_content">'.substr((string)$child->Title, 0, 6).'</div>
+        <div class="unix_img">
+            <a href="http://hotdeals.getit.in/latest/"><img id="imgDeals" style="border:0px;" width="70" height="64" src="'.(string)$child->DealImage.'" /></a>
+        </div>
+        <div class="uni_content_two">'.substr((string)$child->Description, 0, 5).'..</div>
+';
+}
+$rand_keys = array_rand($dealsArr, 3);
+?>
+<div class="main_deal">
+<div class="call"><img src="images/call.png" alt="call us @ 44444444" /></div>
+<div class="unix">
+<div class="uni_one">
+<?php echo $dealsArr[$rand_keys[0]]; ?>
+</div>
+<div class="uni_two">
+<?php echo $dealsArr[$rand_keys[1]]; ?>
+</div>
+<div class="uni_two">
+<?php echo $dealsArr[$rand_keys[2]]; ?>
+</div>
+</div>
+</div>
